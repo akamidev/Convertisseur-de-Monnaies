@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 
 # Clé API et URL de base (remplace "YOUR_API_KEY" avec ta clé API)
-API_KEY = '41ea3f2878803fa935604357'
+API_KEY = 'YOUR-KEY'
 URL = f"https://v6.exchangerate-api.com/v6/{API_KEY}/latest/"
 
 # Fonction pour obtenir les taux de change
