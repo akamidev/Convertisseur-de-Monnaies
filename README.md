@@ -31,4 +31,5 @@ Merci à l’API ExchangeRate-API pour les taux de change en temps réel.
 
 ## 🎉 Aperçu de l'Interface
 
-<img src="image1.png" alt="Interface du Planificateur" width="500" height="300">
+<img src="image/image1.png" alt="Interface du Planificateur" width="500" height="300">
+
