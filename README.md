@@ -24,7 +24,7 @@
    cd convertisseur_devises
 
 ### 📜 License
-Ce projet est sous licence MIT - voir le fichier [LICENSE]() pour plus de détails.
+Ce projet est sous licence MIT - voir le fichier [LICENSE](https://github.com/akamidev/Convertisseur-de-Monnaies/blob/main/LICENSE) pour plus de détails.
 
 ### 📫 Remerciements
 Merci à l’API ExchangeRate-API pour les taux de change en temps réel.
